@@ -1,4 +1,4 @@
-# Sentiment-analysis-AI-tweets
+Twitter Sentiment Analysis on Generative AI Adoption
 
 **Overview**
 

@@ -1,4 +1,4 @@
-**Twitter Analysis on Generative AI Adoption**
+**Twitter Sentiment Analysis on Generative AI Adoption**
 
 **Overview**
 
